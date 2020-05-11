@@ -1,6 +1,6 @@
 .vs
-Company.BL.obj
-Company.BL.bin
+Company.BL/obj
+Company.BL/bin
 Company.BL.Test/bin
 Company.BL.Test/obj
 TestResults
